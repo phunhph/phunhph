@@ -26,10 +26,8 @@ A passionate developer focused on building scalable backend architectures, high-
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=phunhph&show_icons=true&theme=tokyonight" alt="Phu's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phunhph&layout=compact&theme=tokyonight" alt="Top Langs" width="48%" />
-</p>
+[![Phu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=phunhph&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phunhph&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
