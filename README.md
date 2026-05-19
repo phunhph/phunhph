@@ -33,5 +33,4 @@ A passionate developer focused on building scalable backend architectures, high-
 
 ### 📫 Connect with me
 - 📞 **Phone:** 0962954690
-- 🌐 **Facebook:** [Your Facebook Profile Link Here]
 - 📧 **Email:** nguyenhuuphu190502004@gmail.com
